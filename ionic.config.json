@@ -1,0 +1,8 @@
+{
+  "name": "ZrTeamApp",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
